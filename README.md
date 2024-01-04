@@ -2,6 +2,8 @@
 
 docker-composeコマンドだけで起動できるMeCabサービス
 
+https://github.com/matsulib/mecab-service?tab=readme-ov-file
+
 * flask-mecab
   * MeCabを利用できるRESTfulなflaskサーバー
   * IPA辞書と新語辞書mecab-ipadic-neologdが選択できる
